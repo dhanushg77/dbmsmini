@@ -2,14 +2,13 @@
 PG accommodation management system mini project
 -----------------------------------------------
 
-        : : : : : LOGIN DETAILS : : : : : 
+        : : : : : ADMIN LOGIN DETAILS : : : : :
+        Username : admin | 
+        Password :  Test@1234
 
-
-Login Admin      Username : admin | 
-                 Password :  Test@1234 || 
-Login User       Username :test@gmail.com | 
-                 Password :Test@123
         
-        : : : : : LOGIN DETAILS : : : : :
+        : : : : : USER LOGIN DETAILS : : : : :
+        Username :test@gmail.com | 
+        Password :Test@123
         
    ***Don't forget to create a database 'hostel.sql', import it and Run***
